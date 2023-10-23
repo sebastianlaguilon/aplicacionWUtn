@@ -1,0 +1,26 @@
+.error-message {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.registro{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.agrega_categoria {
+    display: block; /* Cambia la visualización a bloque para que ocupe todo el ancho disponible */
+    width: 200px; /* Establece un ancho deseado (ajusta según tus necesidades) */
+    margin: 0 auto; /* Centra horizontalmente */
+    background-color: green; /* Fondo verde */
+    color: white; /* Texto en blanco */
+    text-align: center; /* Centra el texto dentro del elemento */
+    padding: 10px; /* Espacio interno para el contenido */
+    border: none; /* Quita el borde (si es necesario) */
+    cursor: pointer; /* Cambia el cursor al estilo de un botón */
+    text-decoration: none; /* Quita el subrayado del enlace */
+}
